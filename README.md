@@ -12,7 +12,7 @@ I'm a Data Analyst, Aspring Technical Writer, and a recent graduate of Data Engi
 - 💡 I am also a technical writer with expertise in building technical documentation, user manuals, user guides, tutorials, etc. you can view my portfolio here [TW portfolio](notion)
 - 😊 I’m actively searching for open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Engineer, Data Analyst, or Technical writer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1D84w0iw95dhOTsp3LJBbPsoK2sJfeB5EgVUP4hxBhS0/edit?usp=sharing) and contact me by emailing bewarangritmwa@gmail.com.
+- 📫 You can contact me by emailing bewarangritmwa@gmail.com.
 
 ---
 
