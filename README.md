@@ -3,11 +3,10 @@
 
 
 
-I'm a Data Analyst, Aspring Technical Writer, and a recent graduate of Data Engineering from AltSchool Africa. I'm passionate about Data and sharing knowledge. I create technical content (on my [Blog](https://medium.com/@bewarangritmwa)).
+I'm a Data Analyst, Technical Writer, and a recent graduate of Data Engineering from AltSchool Africa. I'm passionate about Data and sharing knowledge. I create technical content (on my [Blog](https://medium.com/@bewarangritmwa)).
 
-**Here's a quick summary about me**:
+**Here's a quick summary about me 🔥**:
 
-🔥 About Me:
 📚 Tech Stack: Python, SQL, Google Cloud Platform (GCP), Docker, Apache Airflow, dbt (Data Build Tool).
 
 📊 I love building interactive dashboards and visualizing data insights. Check out my Tableau Portfolio.
@@ -16,7 +15,7 @@ I'm a Data Analyst, Aspring Technical Writer, and a recent graduate of Data Engi
 
 🚀 Currently seeking opportunities in open-source projects, hackathons, internships, and entry-level roles.
 
-🎯 Career Interests: Analytics Engineer, Data Analyst, or Technical Writer (Intern or Junior level).
+🎯 Career Interests: Analytics Engineer, Data Analyst, or Technical Writer.
 
 📫 Reach me at: bewarangritmwa@gmail.com
 
