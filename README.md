@@ -7,12 +7,20 @@ I'm a Data Analyst, Aspring Technical Writer, and a recent graduate of Data Engi
 
 **Here's a quick summary about me**:
 
-- 💡Hi, my name is Ritmwa Bewarang.
-- 🌱 My tech stack include: Python, SQL, Google Cloud Platform(GCP), Docker, Airflow, and Data Build Tool(DBT).
-- 💡 I am also a technical writer with expertise in building technical documentation, user manuals, user guides, tutorials, etc. you can view my portfolio here [TW portfolio](notion)
-- 😊 I’m actively searching for open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Data Engineer, Data Analyst, or Technical writer (Intern or Junior level).
-- 📫 You can contact me by emailing bewarangritmwa@gmail.com.
+🔥 About Me:
+📚 Tech Stack: Python, SQL, Google Cloud Platform (GCP), Docker, Apache Airflow, dbt (Data Build Tool).
+
+📊 I love building interactive dashboards and visualizing data insights. Check out my Tableau Portfolio.
+
+📝 I also create technical documentation, user guides, tutorials, and more. View my technical writing portfolio here.
+
+🚀 Currently seeking opportunities in open-source projects, hackathons, internships, and entry-level roles.
+
+🎯 Career Interests: Analytics Engineer, Data Analyst, or Technical Writer (Intern or Junior level).
+
+📫 Reach me at: bewarangritmwa@gmail.com
+
+
 
 ---
 
