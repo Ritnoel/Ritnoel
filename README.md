@@ -17,7 +17,10 @@ I'm a Data Analyst, Technical Writer, and a recent graduate of Data Engineering 
 
 🎯 Career Interests: Analytics Engineer, Data Analyst, or Technical Writer.
 
-📫 Reach me at: bewarangritmwa@gmail.com
+📫 Reach me at: 
+Email: bewarangritmwa@gmail.com
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritmwa-bewarang/)
+
 
 
 
