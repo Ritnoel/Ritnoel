@@ -1,23 +1,32 @@
 # Hello there; welcome 👋🏾
 
+I’m a Data Analyst transitioning into Analytics Engineering, currently studying Software Development at Saxion University of Applied Sciences (Netherlands).
+I bring a unique combination of construction domain knowledge and data skills, with a background in Quantity Surveying, where I worked with cost estimation, project analysis, and data-driven decision-making in construction projects.
+I enjoy building practical, real-world data solutions—from analyzing datasets to developing applications that make data more usable and impactful.
 
+📝 I also share my learning journey and technical insights on my [Blog](https://medium.com/@bewarangritmwa).
 
+🔧 What I Work With
+Languages & Tools: Python, C#, SQL
+Data & Analytics: PowerBI, Tableau, dbt (Data Build Tool)
+Other Tools: Docker
 
-I'm a Data Analyst, Technical Writer, and a recent graduate of Data Engineering from AltSchool Africa. I'm passionate about Data and sharing knowledge. I create technical content on my [Blog](https://medium.com/@bewarangritmwa).
+📊 What I Enjoy Building
+Interactive dashboards and data visualizations
+Data pipelines and transformation workflows
+Practical web applications
 
-**Here's a quick summary about me 🔥**:
+Check out my Tableau Portfolio [here](https://public.tableau.com/app/profile/ritmwa.bewarang/vizzes).
 
-📚 Tech Stack: Python, SQL, Google Cloud Platform (GCP), Docker, Apache Airflow, dbt (Data Build Tool).
+🚀 Currently Open To
+Entry-level Data Analyst roles
+Analytics Engineering opportunities
+Internships, open-source, and hackathons
 
-📊 I love building interactive dashboards and visualizing data insights. Check out my Tableau Portfolio [here](https://public.tableau.com/app/profile/ritmwa.bewarang/vizzes).
+🎯 Career Focus
+Data Analyst | Analytics Engineer
 
-📝 I also create technical documentation, user guides, tutorials, and more. View my technical writing portfolio here.
-
-🚀 Currently seeking opportunities in open-source projects, hackathons, internships, and entry-level roles.
-
-🎯 Career Interests: Analytics Engineer, Data Analyst, or Technical Writer.
-
-📫 Reach me at: 
+📫 Let's Connect
 Email: bewarangritmwa@gmail.com
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritmwa-bewarang/)
 
