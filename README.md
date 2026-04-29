@@ -20,7 +20,7 @@ I enjoy building practical, real-world data solutions—from analyzing datasets 
 Check out my Tableau Portfolio [here](https://public.tableau.com/app/profile/ritmwa.bewarang/vizzes).
 
 🚀 Currently Open To
-- Entry-level Data Analyst roles
+- Data Analyst roles
 - Analytics Engineering opportunities
 - Internships, open-source, and hackathons
 
