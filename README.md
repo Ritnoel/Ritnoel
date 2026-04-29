@@ -27,8 +27,8 @@ Check out my Tableau Portfolio [here](https://public.tableau.com/app/profile/rit
 Data Analyst | Analytics Engineer
 
 📫 Let's Connect
-Email: bewarangritmwa@gmail.com
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritmwa-bewarang/)
+- Email: bewarangritmwa@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritmwa-bewarang/)
 
 
 
