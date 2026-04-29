@@ -7,21 +7,21 @@ I enjoy building practical, real-world data solutions—from analyzing datasets 
 📝 I also share my learning journey and technical insights on my [Blog](https://medium.com/@bewarangritmwa).
 
 🔧 What I Work With
-Languages & Tools: Python, C#, SQL
-Data & Analytics: PowerBI, Tableau, dbt (Data Build Tool)
-Other Tools: Docker
+- Languages & Tools: Python, C#, SQL
+- Data & Analytics: PowerBI, Tableau, dbt (Data Build Tool)
+- Other Tools: Docker
 
 📊 What I Enjoy Building
-Interactive dashboards and data visualizations
-Data pipelines and transformation workflows
-Practical web applications
+- Interactive dashboards and data visualizations
+- Data pipelines and transformation workflows
+- Practical web applications
 
 Check out my Tableau Portfolio [here](https://public.tableau.com/app/profile/ritmwa.bewarang/vizzes).
 
 🚀 Currently Open To
-Entry-level Data Analyst roles
-Analytics Engineering opportunities
-Internships, open-source, and hackathons
+- Entry-level Data Analyst roles
+- Analytics Engineering opportunities
+- Internships, open-source, and hackathons
 
 🎯 Career Focus
 Data Analyst | Analytics Engineer
