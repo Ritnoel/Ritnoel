@@ -8,6 +8,7 @@ I enjoy building practical, real-world data solutions—from analyzing datasets 
 
 🔧 What I Work With
 - Languages & Tools: Python, C#, SQL
+- Frameworks: Flask
 - Data & Analytics: PowerBI, Tableau, dbt (Data Build Tool)
 - Other Tools: Docker
 
