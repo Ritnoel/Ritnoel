@@ -1,31 +1,31 @@
 # Hello there; welcome 👋🏾
 
-I’m a Data Analyst transitioning into Analytics Engineering, currently studying Software Development at Saxion University of Applied Sciences (Netherlands).
-I bring a unique combination of construction domain knowledge and data skills, with a background in Quantity Surveying, where I worked with cost estimation, project analysis, and data-driven decision-making in construction projects.
-I enjoy building practical, real-world data solutions—from analyzing datasets to developing applications that make data more usable and impactful.
+👋🏾 I'm a software developer and data analyst with a background in Quantity Surveying where I spent years doing cost estimation, project analysis, and data-driven decision-making in construction. That domain experience shapes how I think about building things: practical, purposeful, and grounded in real problems.
+I'm currently studying Software Development at Saxion University of Applied Sciences (Netherlands), expanding my skills across full-stack development and data engineering.
 
 📝 I also share my learning journey and technical insights on my [Blog](https://medium.com/@bewarangritmwa).
 
 🔧 What I Work With
 - Languages & Tools: Python, C#, SQL
-- Frameworks: Flask
+- Web & Backend: Flask, Vue.js, PostgreSQL, SQLAlchemy
 - Data & Analytics: PowerBI, Tableau, dbt (Data Build Tool)
-- Other Tools: Docker
+- DevOps & Tooling: Docker, Git, GitLab CI/CD
 
-📊 What I Enjoy Building
-- Interactive dashboards and data visualizations
+📊 What I Build
+- Web applications that solve practical problems
 - Data pipelines and transformation workflows
-- Practical web applications
+- Interactive dashboards and visualizations
 
 Check out my Tableau Portfolio [here](https://public.tableau.com/app/profile/ritmwa.bewarang/vizzes).
 
-🚀 Currently Open To
-- Data Analyst roles
-- Analytics Engineering opportunities
-- Internships, open-source, and hackathons
+🚀 Open To
+- Data Analyst
+- Analytics Engineer
+- Software Developer
+- Internships
+- Open-source
+- Hackathons
 
-🎯 Career Focus
-Data Analyst | Analytics Engineer
 
 📫 Let's Connect
 - Email: bewarangritmwa@gmail.com
