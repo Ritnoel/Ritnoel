@@ -18,15 +18,6 @@ I'm currently studying Software Development at Saxion University of Applied Scie
 
 Check out my Tableau Portfolio [here](https://public.tableau.com/app/profile/ritmwa.bewarang/vizzes).
 
-🚀 Open To
-- Data Analyst
-- Analytics Engineer
-- Software Developer
-- Internships
-- Open-source
-- Hackathons
-
-
 📫 Let's Connect
 - Email: bewarangritmwa@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ritmwa-bewarang/)
